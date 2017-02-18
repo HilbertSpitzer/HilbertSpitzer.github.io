@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<TITLE>Lorenz</TITLE>
+</HEAD>
+<BODY><dir="ltr>
+
+
+Welcome to the contacts page<br/>
+<form name="input" name="myHebform" action="mailto:hilbertbonamy@gmail.com" action="1.html" method="get"><table border="1">
+ <tr>
+<td>First Name: 	</td><td><input type="text" name="first name" size="50"/></td></tr><tr>
+<td>Last Name: 	</td><td><input type="text" name="Last name" size="50"/></td></tr><tr>
+<td>Email: 		</td><td><input type="text" name="email" size="50"/></td></tr><tr>
+<td>Phone Number: 	</td><td><input type="text" name="Phonenum" size="50"/></td></tr><tr>
+<td>Age: 		</td><td><input type="text" name="Age" size="50"/></td></tr></table>
+ <input type="submit" value="Submit" />
+ </form> 
+
+
+</BODY>
+
+</HTML>
+
+
