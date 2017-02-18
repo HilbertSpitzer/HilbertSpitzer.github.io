@@ -5,7 +5,7 @@
 <BODY><dir="ltr>
 
 
-Welcome to the contacts page<br/>
+Welcome to the site, want to send me something?<br/>
 <form name="input" name="myHebform" action="mailto:hilbertbonamy@gmail.com" action="1.html" method="get"><table border="1">
  <tr>
 <td>First Name: 	</td><td><input type="text" name="first name" size="50"/></td></tr><tr>
